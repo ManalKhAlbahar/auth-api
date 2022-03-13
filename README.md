@@ -12,6 +12,8 @@ auth-api
 - in your browser open "http://localhost:3000/singup"
 - in your browser open "http://localhost:3000/secret"
 - in your browser open "http://localhost:3000/user"
-- ![UML diagram](auth-api.jpg)
-- - [PR](https://github.com/ManalKhAlbahar/auth-api/pull/1)
+
+![UML diagram](auth-api.jpg)
+
+- [PR](https://github.com/ManalKhAlbahar/auth-api/pull/1)
 - [Github actions](https://github.com/ManalKhAlbahar/auth-api/actions)
