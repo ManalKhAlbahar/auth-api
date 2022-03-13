@@ -2,7 +2,7 @@
 auth-api
 
 ## Getting Started
-- U
+
 - add a actions to active CI/CD .
 - install packages (express,dotenv,jest,supertest ,sequelize sequelize-cli pg sqlite3 base-64 bcrypt)
 - to test the code run 'npm test'
