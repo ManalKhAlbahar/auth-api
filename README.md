@@ -17,3 +17,4 @@ auth-api
 
 - [PR](https://github.com/ManalKhAlbahar/auth-api/pull/1)
 - [Github actions](https://github.com/ManalKhAlbahar/auth-api/actions)
+- [Heroku](https://manal-auth-api.herokuapp.com/)
